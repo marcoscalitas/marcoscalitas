@@ -16,3 +16,33 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Html" aline="center">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Html" aline="center">
 </div>
+
+## Bem-vindo ao Meu Perfil! 👋
+
+### Desenvolvedor Full stack 🚀
+
+## Bem-vindo ao Meu Perfil no GitHub! 👋
+
+### Sobre Mim 🚀
+
+Sou apaixonado pela arte da codificação e pela ciência do design, dedicado a criar experiências digitais excepcionais. Meu objetivo é fundir habilidades técnicas com criatividade para desenvolver soluções funcionais e visualmente atraentes.
+
+### Principais Áreas de Interesse 🌐
+
+- Desenvolvimento Web Full Stack
+- Arquitetura de Software
+- Otimização de Performance
+- Inovação e Tecnologias Emergentes
+
+### O Que Eu Faço Atualmente 👨‍💻
+
+- Estou imerso em projetos desafiadores de desenvolvimento web, onde aplico meu conhecimento e paixão para criar soluções inovadoras.
+- Especializado em tecnologias front-end e back-end, estou sempre buscando aprimorar minhas habilidades para superar novos desafios.
+
+### Minha Abordagem ✨
+
+Minha abordagem se baseia em criar interfaces intuitivas, performances otimizadas e experiências envolventes. Busco colaborações com outros profissionais e aprender com suas experiências, para aprimorar ainda mais minhas habilidades e conhecimentos.
+
+### Vamos Conectar! 🌱
+
+Se você compartilha da paixão pela tecnologia e busca colaborar em projetos inovadores, sinta-se à vontade para explorar meus repositórios e conectar-se. Juntos, podemos moldar o futuro digital com criatividade, elegância e funcionalidade!
