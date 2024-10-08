@@ -1,5 +1,5 @@
-### Olá! Eu sou o Marcos Calitas / Desenvolvedor Front-End 🚀
-## Bem-vindo ao Meu Perfil no GitHub! 👋
+## Hi! Welcome to my GitHub profile! 👋
+### I'm Marcos Calitas / Front-End Developer 💻
 
 [![Gmail ](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcosfredericocalitas22@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoscalitas)
