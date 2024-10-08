@@ -1,7 +1,7 @@
 ## Hi! Welcome to my GitHub profile! 👋
 ### I'm Marcos Calitas / Front-End Developer 💻
 
-[![Gmail ](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcosfredericocalitas22@gmail.com)
+[![Gmail ](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcoscalitas@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoscalitas)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-calitas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcoscalitas_official/)
